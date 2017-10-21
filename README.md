@@ -15,7 +15,7 @@ $ apm install --packages-file ~/.atom/packages-list.txt
 
 ## Update packages-list.txt
 
-```
+```bash
 # With apm list:
 $ apm list --installed --no-dev --bare > ~/.atom/packages-list.txt
 

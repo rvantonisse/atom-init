@@ -8,6 +8,7 @@ dev
 packages
 recovery
 storage
+package-deps-state.json
 
 # GIT
 .git

@@ -1,7 +1,4 @@
 "*":
-  "atom-beautify":
-    general:
-      analytics: false
   "autocomplete-plus": {}
   core:
     allowPendingPaneItems: false
@@ -13,7 +10,7 @@
     ]
   date: {}
   editor:
-    fontSize: 15
+    fontSize: 14
     scrollPastEnd: true
     showIndentGuide: true
   "exception-reporting":
